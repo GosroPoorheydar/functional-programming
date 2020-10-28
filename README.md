@@ -7,12 +7,18 @@ In deze repo komen alle bestanden betrekkend tot Functional programming.
  #### Vereiste Data:
  
  AreaID
+ 
  AreaManagerID
+ 
  AreaDesc
+ 
  UsageID
+ 
  Location
+ 
  FareCalculationCode
- FareCalculationDesc :De omschrijving van een tariefberekening. \s\s
+ 
+ FareCalculationDesc :De omschrijving van een tariefberekening.
 
 Ik verwacht dat in een gebied waar veel parkeergarages liggen, de prijzen scherper zijn om competitief te blijven, terwijl er in een gebied met weinig parkeergarages de prijzen meer monopolistisch gestructureerd zijn.
 
