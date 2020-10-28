@@ -12,4 +12,8 @@ In deze repo komen alle bestanden betrekkend tot Functional programming.
  UsageID
  Location
  FareCalculationCode
- FareCalculationDesc
+ FareCalculationDesc :De omschrijving van een tariefberekening. \s\s
+
+Ik verwacht dat in een gebied waar veel parkeergarages liggen, de prijzen scherper zijn om competitief te blijven, terwijl er in een gebied met weinig parkeergarages de prijzen meer monopolistisch gestructureerd zijn.
+
+Ik verwacht ook dat in bevolkingsrijke gebieden
