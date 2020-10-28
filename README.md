@@ -24,9 +24,11 @@ In deze repo komen alle bestanden betrekkend tot Functional programming.
 
 Ik verwacht dat in een gebied waar veel parkeergarages liggen, de prijzen scherper zijn om competitief te blijven, terwijl er in een gebied met weinig parkeergarages de prijzen meer monopolistisch gestructureerd zijn.
 
+
 Ik verwacht ook dat in bevolkingsrijke gebieden de prijzen hoger zullen liggen vanwege de hoeveelheid vraag naar parkeerplaatsen.
 
 ### Vereiste API's :
 
 https://opendata.rdw.nl/resource/t5pc-eb34.json - GEO Parkeer Garages
+
 https://opendata.rdw.nl/resource/nfzq-8g7y.json - Open Data Parkeren: TARIEFBEREKENING
