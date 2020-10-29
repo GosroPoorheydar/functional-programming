@@ -1,10 +1,11 @@
 const surveyAnswers = data;
 
-let kolomNaam = "relatie"
+let kolomNaam = "lievelingsWeekdag"
 
 let lijstAntwoorden = getAnswersForQuestion(surveyAnswers, kolomNaam)
 
 console.log("All survey answers are: ", lijstAntwoorden);
+console.log("There are this many unique values: ", findUniqueValues(lijstAntwoorden))
 console.log("All filtered survey answers are: ", getFilteredAnswers());
 
 
@@ -42,4 +43,17 @@ function getFilteredAnswers(results) {
 
 }
 
+
 //const specificAnswers = surveyAnswers.map(answer => answer[kolomNaam])
+
+// Toon alle unieke antwoorden in een array (is toepasselijk op alle data).
+
+function findUniqueValues(valueArray) {
+    let uniqueArray = []
+    valueArray.map(item => {
+        if (uniqueArray.indexOf(item) == -1) {
+            uniqueArray.push(item)
+        }
+    })
+    return uniqueArray
+}
