@@ -1,7 +1,7 @@
 # functional-programming
 
  ### Hoofdvraag:
- Heeft de relatieve/hemelsbrede afstand tussen parkeergarages invloed op de individuele prijs van deze garages?
+ Does the relative/Absolute distance between parking garages have an impact on the individual price of these garages?
  
  #### Vereiste Data:
  
