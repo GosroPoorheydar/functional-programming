@@ -1,9 +1,9 @@
 # functional-programming
 
- ### Hoofdvraag:
+ ### Guiding question :
  Does the relative/Absolute distance between parking garages have an impact on the individual price of these garages?
  
- #### Vereiste Data:
+ #### Required Data:
  
  AreaID : Identificatiecode van een parkeergebied of - faciliteit.
  
@@ -21,12 +21,13 @@
 
 ### Verwachting: 
 
-Ik verwacht dat in een gebied waar veel parkeergarages liggen, de prijzen scherper zijn om competitief te blijven, terwijl er in een gebied met weinig parkeergarages de prijzen meer monopolistisch gestructureerd zijn.
 
 
-Ik verwacht ook dat in bevolkingsrijke gebieden de prijzen hoger zullen liggen vanwege de hoeveelheid vraag naar parkeerplaatsen.
+My expectations are that areas that contain a high amount of parking garages, will have more competitive prices, while areas with few parking garages will try to monopolize on that fact.
 
-### Vereiste API's :
+I also expect densely populated areas to have higher prizes due to the high demand for parking spots.
+
+### Required API's :
 
 https://opendata.rdw.nl/resource/t5pc-eb34.json - GEO Parkeer Garages
 
